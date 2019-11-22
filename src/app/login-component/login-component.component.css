@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.main {
+  width: 100%;
+
+  position: absolute;
+}
+
+.left {
+  float: left;
+  display: block;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.right {
+  float: left;
+  display: block;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.r-content {
+  margin-top: 20px;
+  width: 70%;
+}
+
+.inp {
+  width: 100%;
+}
